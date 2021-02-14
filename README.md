@@ -14,3 +14,5 @@ After that, you go to a terminal window and type this:
 ```bash
 cd /DownloadDirectoryName/sb2Hack
 python3 sb2hack.py
+```
+This will run sb2Hack. It will handle the rest for you.
